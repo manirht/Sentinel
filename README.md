@@ -360,20 +360,23 @@ POST /api/rules
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard Overview](docs/screenshots/dashboard.png)
+![Dashboard Overview](image-1.png)
+![Dashboard Graph](image-2.png)
+
+
 
 ### Alerts Management
-![Alerts Page](docs/screenshots/alerts.png)
+![Alerts Page](image-3.png)
 
 ### Rules Configuration
-![Rules Page](docs/screenshots/rules.png)
+![Rules Page](image-4.png)
+![Rules Page](image-5.png)
 
 ### Login Page
-![Login](docs/screenshots/login.png)
+![Login](image.png)
+
 
 ## 🎥 Demo
-
-[Demo Video Link](https://youtu.be/your-demo-video)
 
 **Demo Scenarios:**
 
@@ -560,7 +563,7 @@ Sentinel/
 ## 👨‍💻 Contributors
 
 - **Your Name** - Full Stack Developer
-- **Email**: your.email@example.com
+- **Email**: manirohit221004@gmail.com
 - **GitHub**: [@manirht](https://github.com/manirht)
 
 ## 📄 License
