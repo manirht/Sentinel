@@ -562,7 +562,7 @@ Sentinel/
 
 ## 👨‍💻 Contributors
 
-- **Your Name** - Full Stack Developer
+- **Name** - Mani Rohit
 - **Email**: manirohit221004@gmail.com
 - **GitHub**: [@manirht](https://github.com/manirht)
 
